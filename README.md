@@ -18,3 +18,375 @@ Now you are good to go!
 
 ## <a href="https://prismlauncher.org/">Modrinth</a>
 
+# List of Mods Included (bolded are mods not included in base Craftoria)
+- AE2 Import Export Card
+- AE2:Crafting Tree
+- AE2NetworkAnalyzer
+- AE2WTLib
+- AI\-Improvements
+- Accelerated Decay
+- Actually Additions
+- Advanced AE
+- Advanced Netherite
+- Advancement Plaques
+- All The Leaks
+- All the Wood We've Got
+- AlmostUnified
+- Alternate Current
+- AmbientSounds
+- Animal Feeding Trough
+- Apotheosis
+- Apothic Attributes
+- Apothic Enchanting
+- Apothic Spawners
+- AppleSkin
+- Applied Energistics 2
+- Applied Mekanistics
+- AppliedFlux
+- Aquaculture 2
+- Architectury
+- Ars Additions
+- Ars Elemental
+- Ars Nouveau
+- Ars Nouveau's Flavors & Delight
+- Ars Ocultas
+- Ars Énergistique
+- Artifacts
+- Arts & Crafts
+- Athena
+- Atlas API
+- AttributeFix
+- Aurelj's Paintings
+- Autochef's Delight
+- AzureLib
+- BHMenu
+- Bad Wither No Cookie Reloaded
+- Balm
+- Bank Storage
+- Barbeque's Delight
+- Better Advancements
+- Better ModList
+- Bigger AE2
+- Blue Flame Burning
+- Bookshelf
+- Bosses of Mass Destruction
+- Bridging Mod
+- Building Gadgets 2
+- CC: Tweaked
+- Cable Facades
+- Caelus API
+- CapeJS
+- Cerbons API
+- Charging Gadgets
+- Charm of Undying
+- Chat Heads
+- Chat Toggle
+- Cherished Worlds
+- Chipped
+- Chisel Reborn
+- Clean Swing
+- Clean Tooltips
+- Client Tweaks
+- Cloth Config v15 API
+- Clumps
+- Comforts
+- CommonCapabilities
+- ConnectedTexturesMod
+- Construction Sticks
+- Controlling
+- Cooking for Blockheads
+- CorgiLib
+- CoroUtil
+- CraftedCore
+- Crafting Tweaks
+- CraftingStation
+- Crash Utilities
+- CreativeCore
+- Creeper Overhaul
+- Cristel Lib
+- Curios API
+- Curious Armor Stands
+- Cursed Earth Returns
+- Cyclops Core
+- Dark Mode Everywhere
+- Duckling
+- Dumpling's Delight Rewrapped
+- Dungeon Crawl
+- EMI
+- EMI Enchanting
+- EMI Ores
+- EMI Professions \(EMIP\)
+- ElevatorMod
+- Elytra Slot
+- End's Delight
+- Enderman Overhaul
+- Enhanced Celestials
+- Entangled
+- Entity Model Features
+- Entity Texture Features
+- EntityCulling
+- EpheroLib
+- Equipment Compare
+- Eternal Starlight
+- Euphoria Patcher
+- Expanded Storage
+- Extended Industrialization
+- ExtendedAE
+- ExtraSponges
+- Extreme Sound Muffler
+- FTB Chunks
+- FTB Essentials
+- FTB Filter System
+- FTB Library
+- FTB Quests
+- FTB Ranks
+- FTB Teams
+- FTB Ultimine
+- FTB XMod Compat
+- Factory Blocks
+- FancyMenu
+- Farmer's Cutting: Oh The Biomes We've Gone
+- Farmer's Delight
+- FarmersStructures
+- Farming for Blockheads
+- Fast Workbench
+- Ferrite Core
+- FindMe
+- FlickerFix
+- Forgiving Void
+- FramedBlocks
+- Framework
+- Fruits Delight
+- Functional Storage
+- Fusion
+- Fzzy Config
+- Gadgets Against Grind
+- GameTechBC's Spellbooks
+- Gateways To Eternity
+- GeckoLib 4
+- Glassential\-renewed
+- GlitchCore
+- Glodium
+- Gravitational Modulating Additional Unit
+- Guard Villagers
+- Handcrafted
+- **Hardcore Revive Reloaded**
+- Hardened Armadillos
+- Hey Berry\! SHUT UP
+- HopoBetterMineshaft
+- HopoBetterRuinedPortals
+- HopoBetterUnderwaterRuins
+- Hostile Neural Networks
+- Hyperbox
+- I'm Fast
+- Iceberg
+- Illagers Wear Armor
+- ImmediatelyFast
+- Immersive Aircraft
+- Industrial Foregoing
+- Industrial Foregoing Souls
+- Industrialization Overdrive
+- IntegratedCrafting
+- IntegratedDynamics
+- IntegratedScripting
+- IntegratedTerminals
+- IntegratedTunnels
+- Inventory Essentials
+- Inventory Profiles Next
+- Iris
+- Iron's Gems 'n Jewelry
+- Iron's Spells 'n Spellbooks
+- Jade
+- Jade Addons
+- JamLib
+- Jumbo Furnace
+- Jump Over Fences
+- Jumpy Boats
+- Just Another Mining Dimension
+- Just Another Void Dimension
+- Just Dire Things
+- Just Enough Breeding
+- Just Enough Items
+- Just Enough Mekanism Multiblocks
+- Just Hammers
+- Konkrete
+- Kotlin for Forge
+- KubeJS
+- KubeJS Actually Additions
+- KubeJS Mekanism
+- LaserIO
+- Legendary Tooltips
+- Lighty
+- Load My F\*\*\*ing Tags
+- Log Begone
+- LootJS
+- Lootr
+- ME Requester
+- MEGA Cells
+- MI Sound Addon
+- MI Tweaks
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Holidays
+- Macaw's Lights and Lamps
+- Macaw's Paintings
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Macaw's Stairs and Balconies
+- Macaw's Trapdoors
+- Macaw's Windows
+- Measurements
+- Mekanism
+- Mekanism Unleashed
+- Mekanism: Generators
+- Mekanism: Tools
+- Mekanistic Routers
+- Melody
+- Mining Gadgets
+- Mob Grinding Utils
+- Modern Dynamics
+- Modern Industrial Routers
+- Modern Industrialization
+- ModernFix
+- Modonomicon
+- Modular Force Field System
+- Modular Routers
+- More Delight
+- More Dragon Eggs
+- More Industrial Foregoing Addons
+- More Mekanism Processing
+- More Red
+- More Red x CC:Tweaked Compat
+- MoreTotems
+- Mouse Tweaks
+- MrCrayfish's Furniture Mod: Refurbished
+- My Nether's Delight
+- Nature's Compass
+- NetherPortalFix
+- Nirvana Library
+- Noisium
+- Not Enough Glyphs
+- Not Enough Recipe Book
+- NotEnoughAnimations
+- Obsidian Boat
+- Occultism
+- Ocean's Delight
+- OctoLib
+- Oh The Biomes We've Gone
+- Oh The Trees You'll Grow
+- Open Sesame
+- OverloadedArmorBar
+- PVP Flagging
+- Packet Fixer
+- Patchouli
+- Pave The Way
+- Paxi
+- Perception
+- PingHUD
+- Pipe Connector
+- Pipez
+- Placebo
+- Player Animator
+- PneumaticCraft: Repressurized
+- PolyLib
+- Powah
+- PrickleMC
+- Prism
+- Pufferfish's Attributes
+- Pufferfish's Skills
+- Pylons
+- RAR\-Compat
+- Ranged Pumps
+- **ReMorphed**
+- Reasonable Defaults
+- Rechiseled
+- Rechiseled: Chipped
+- Reese's Sodium Options
+- Relics
+- Reliquary Reincarnations
+- Repeatable Trial Vaults
+- Resourceful Lib
+- Resourcefulconfig
+- Rhino
+- Right Click Harvest
+- Rustic Delight
+- SawmillHouse
+- Searchables
+- SeasonHUD
+- Serene Seasons
+- Server Started\!
+- Showcase Item
+- Shrink
+- Simple Discord Rich Presence
+- Simple Magnets
+- Simple Pocket Machines
+- **Simple Voice Chat**
+- Simply Light
+- SmallHorseStable
+- SmartBrainLib
+- SmithingTemplateViewer
+- Snow Under Trees
+- Sodium
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Soulplied Energistics
+- Storage Delight
+- Structory
+- Structory: Towers
+- Super Factory Manager
+- SuperMartijn642's Config Library
+- SuperMartijn642's Core Lib
+- Sushi Go Crafting
+- Sussy Sniffers
+- Tank Storage
+- Tectonic
+- TerraBlender
+- Tesseract
+- Tesseract API
+- Thaumon
+- The Bumblezone
+- The Twilight Forest
+- Theurgy
+- TinyCoal
+- Titanium
+- Toast Control
+- Torchmaster
+- Towns and Towers
+- Trade Cycling
+- Transmog
+- Trash Cans
+- TrashSlot
+- Trenzalore
+- Trofers
+- Twilight Flavors & Delight
+- Useful Hats
+- Utilitarian
+- WITS
+- **Wood Walkers**
+- Waystones
+- What Are They Up To
+- When Dungeons Arise
+- When Dungeons Arise: Seven Seas
+- Wither Skeleton Tweaks
+- XP Tome
+- YUNG's API
+- YUNG's Better Desert Temples
+- YUNG's Better Dungeons
+- YUNG's Better End Island
+- YUNG's Better Jungle Temples
+- YUNG's Better Mineshafts
+- YUNG's Better Nether Fortresses
+- YUNG's Better Ocean Monuments
+- YUNG's Better Strongholds
+- YUNG's Better Witch Huts
+- YUNG's Bridges
+- YUNG's Extras
+- Yeetus Experimentus
+- YetAnotherConfigLib
+- You're in Grave Danger
+- **Zombie Awareness**
+- Zume
+- libIPN
+- spark
